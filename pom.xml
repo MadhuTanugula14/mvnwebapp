@@ -23,6 +23,18 @@
     
     
   </dependencies>
+	
+	
+	
+	
+<distributionManagement>
+    <repository>
+        <id>telstra</id>
+        <name>telstra</name>
+        <url>http://34.102.33.22:8081/#admin/repository/repositories:telstra</url>
+    </repository>
+   
+</distributionManagement>
   <build>
     <finalName>mvnwebapp</finalName>
   </build>
